@@ -1,3 +1,17 @@
+##################################
+## Java練習用チャットプログラム ##
+##################################
+
+■参考サイト
+<Tech Tips>
+http://techtipshoge.blogspot.jp/2011/09/java.html
+
+■ソースコピー元
+<Kenji-H/Chatter>
+https://github.com/Kenji-H/Chatter.git
+
+以下、参照元Readmeファイル
+-----------------------------------------------------------------
 1 What's this?
 A chat app by Java socket programming.
 
@@ -7,5 +21,4 @@ A chat app by Java socket programming.
 
 3 How to stop app?
 put "bye" to the command line. (quotes are just for clearity)
-
-
+-----------------------------------------------------------------
