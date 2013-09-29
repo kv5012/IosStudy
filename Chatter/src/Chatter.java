@@ -1,7 +1,9 @@
-import java.net.*;
+import java.net.InetSocketAddress;
+import java.net.ServerSocket;
+import java.net.Socket;
 
 /**
- * Chatter Main
+ * Chatter Main a
  */
 public class Chatter {
 	static private String mode;
